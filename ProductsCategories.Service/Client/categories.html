@@ -1,0 +1,59 @@
+<div id="divContent">
+    &nbsp;
+    <h3>Categories</h3>
+    &nbsp;
+    <form id="productsAllForm" class="form-inline"> 
+        <p>To add a category you have to enter at least Name</p>
+        <div class="form-group">
+             <label class="sr-only" for="inputName">Name</label> 
+             <input type="text" class="form-control" id="inputName" placeholder="Name">
+        </div>
+         <div class="form-group">
+            <label class="sr-only" for="inputDescription"></label>
+            <input type="text" class="form-control" id="inputDescription"placeholder="Description">
+        </div>
+        <button id="addButton" type="button" class="btn btn-primary">Add Category</button>
+    </form>
+
+    <hr />
+
+    <div class="col-md-9">
+        <table id="ctgryDetails" 
+                class="table table-condensed table-hover table-striped" 
+                data-search="false"
+                >
+            <thead>
+                <tr>
+                    <th data-column-id="id" data-identifier="true" data-type="numeric" searchable="true">ID</th>
+                    <th data-column-id="name" data-formatter="name" searchable="true">Name</th>
+                    <th data-column-id="description" data-order="desc" data-formatter="description">Category</th>
+                    <th data-column-id="update" data-formatter="commands" data-sortable="false"></th>
+                    <th data-column-id="delete" data-formatter="commands" data-sortable="false"></th>
+                </tr>
+            </thead>
+            <tbody>
+        
+            </tbody>
+        </table>
+
+        <form id="updateCategoryForm" class="form-inline"> 
+             <div class="form-group">   
+                <label id="updateId">Id</label>
+             </div>
+             <div class="form-group">
+                 <label class="sr-only" for="updateName">Name</label> 
+                 <input type="text" class="form-control" id="updateName" placeholder="Name">
+             </div>
+             <div class="form-group">
+                <label class="sr-only" for="updateDescription"></label>
+                <input type="text" class="form-control" id="updateDescription"placeholder="Description">
+             </div>
+             <div class="form-group">
+                <button id="updateBtn" type="button" class="btn btn-primary">Update Category</button>
+             </div>
+             <div class="form-group">
+                <button id="cancelUpdateBtn" type="button" class="btn btn-primary">Cancel Update</button>
+             </div>
+        </form>
+    </div>
+</div">

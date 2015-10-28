@@ -1,0 +1,76 @@
+<div id="divContent">
+    &nbsp;
+    <h3>Prodcucts</h3>
+    &nbsp;
+    <form id="productsAllForm" class="form-inline"> 
+        <p>To add a product you have to enter Name and Category</p>
+        <div class="form-group">
+             <label class="sr-only" for="inputNameProduct">Name</label> 
+             <input type="text" class="form-control" id="inputNameProduct" placeholder="Name">
+        </div>
+        <div id="ddAdd" class="btn-group form-group">
+            <button id="addProdCtgry" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Category
+            <span class="caret"></span></button>
+            <ul id="dropdown-menuAdd" class="dropdown-menu">
+            </ul>
+        </div>
+        <div class="form-group">
+            <label class="sr-only" for="inputImageUrl"></label>
+            <input type="text" class="form-control" id="inputImageUrl"placeholder="Image URL">
+        </div>
+        <button id="btnAddProduct" type="button" class="btn btn-primary">Add Product</button>
+    </form>
+
+    <hr />
+
+    <div class="col-md-9">
+        <table id="productDetails" 
+                class="table table-condensed table-hover table-striped" 
+                data-search="false"
+                >
+            <thead>
+                <tr>
+                    <th data-column-id="id" data-identifier="true" data-type="numeric" searchable="true">ID</th>
+                    <th data-column-id="name" data-formatter="name" searchable="true">Name</th>
+                    <th data-column-id="categoryName" data-order="desc" data-formatter="description">Category</th>
+                    <th data-column-id="imageUrl" data-visible="false" data-visible-in-selection="false" >Image Url</th>
+                    <th data-column-id="update" data-formatter="commands" data-sortable="false"></th>
+                    <th data-column-id="delete" data-formatter="commands" data-sortable="false"></th>
+                </tr>
+            </thead>
+            <tbody>
+        
+            </tbody>
+        </table>
+
+        <form id="updateProductForm" class="form-inline"> 
+            <div class="form-group">   
+               <label id="updtProdId">Id</label>
+            </div>
+            <div class="form-group">
+                <label class="sr-only" for="updtPrdtName">Name</label> 
+                <input type="text" class="form-control" id="updtPrdtName" placeholder="Name">
+            </div>
+            <div id="ddUpdt" class="btn-group form-group">
+                <button id="updtProdCtgry" class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">Category
+                <span class="caret"></span></button>
+                <ul id="dropdown-menuUpdt" class="dropdown-menu">
+                </ul>
+            </div>
+            <div class="form-group">
+                <label class="sr-only" for="updtImmgUrl">Image URL</label> 
+                <input type="text" class="form-control" id="updtImmgUrl" placeholder="Image URL">
+            </div>
+            <div class="form-group">
+               <button id="updtPrdtBtn" type="button" class="btn btn-primary">Update Product</button>
+            </div>
+            <div class="form-group">
+               <button id="cancelUpdtPrdt" type="button" class="btn btn-primary">Cancel Update</button>
+            </div>
+
+            <div class="form-group">
+                <img id="prdtImg" src="#" class="img-rounded" width="80" height="60">
+            </div>
+        </form>
+    </div>
+</div>

@@ -1,0 +1,289 @@
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\roslyn\csc.exe
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\roslyn\vbc.exe
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ProductsCategories.Service.dll.config
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ProductsCategories.Service.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ProductsCategories.Service.pdb
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Antlr3.Runtime.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Microsoft.OData.Core.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Microsoft.OData.Edm.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Microsoft.Spatial.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Newtonsoft.Json.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Net.Http.Formatting.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Helpers.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Http.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Http.WebHost.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Mvc.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.OData.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Optimization.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Razor.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.WebPages.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\WebGrease.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Microsoft.OData.Core.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Microsoft.OData.Edm.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Microsoft.Spatial.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.OData.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Newtonsoft.Json.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Net.Http.Formatting.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Helpers.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Http.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Http.WebHost.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Mvc.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Optimization.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Razor.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.WebPages.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Antlr3.Runtime.pdb
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\de\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\es\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\fr\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\it\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ja\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ko\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ru\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\de\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\es\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\it\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\de\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\es\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\fr\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\it\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ja\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ko\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ru\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\obj\Debug\ProductsCategories.Service.csprojResolveAssemblyReference.cache
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\obj\Debug\ProductsCategories.Service.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\obj\Debug\ProductsCategories.Service.pdb
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Norm.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ProductsCategories.Models.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ProductsCategories.Repository.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\StructureMap.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ProductsCategories.Models.pdb
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\ProductsCategories.Repository.pdb
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Norm.pdb
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\Norm.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\MongoDB.Driver.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\MongoDB.Driver.Core.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\MongoDB.Bson.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\MongoDB.Driver.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\MongoDB.Bson.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Cors.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Http.Cors.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Service\bin\System.Web.Http.Cors.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\roslyn\csc.exe
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\roslyn\vbc.exe
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ProductsCategories.Service.dll.config
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ProductsCategories.Service.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ProductsCategories.Service.pdb
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Antlr3.Runtime.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Microsoft.OData.Core.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Microsoft.OData.Edm.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Microsoft.Spatial.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\MongoDB.Bson.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\MongoDB.Driver.Core.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\MongoDB.Driver.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Newtonsoft.Json.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Norm.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ProductsCategories.Models.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ProductsCategories.Repository.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Net.Http.Formatting.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Cors.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Helpers.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Http.Cors.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Http.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Http.WebHost.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Mvc.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.OData.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Optimization.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Razor.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.WebPages.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\WebGrease.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ProductsCategories.Models.pdb
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ProductsCategories.Repository.pdb
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Microsoft.OData.Core.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Microsoft.OData.Edm.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Microsoft.Spatial.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\MongoDB.Bson.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\MongoDB.Driver.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Norm.pdb
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Norm.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Http.Cors.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.OData.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Newtonsoft.Json.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Net.Http.Formatting.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Helpers.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Http.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Http.WebHost.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Mvc.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Optimization.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.Razor.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.WebPages.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\Antlr3.Runtime.pdb
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\de\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\es\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\fr\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\it\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ja\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ko\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ru\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\de\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\es\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\it\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\de\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\es\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\fr\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\it\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ja\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ko\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\ru\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\obj\Debug\ProductsCategories.Service.csprojResolveAssemblyReference.cache
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\obj\Debug\ProductsCategories.Service.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure\ProductsCategories.Service\obj\Debug\ProductsCategories.Service.pdb
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\roslyn\csc.exe
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\roslyn\vbc.exe
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ProductsCategories.Service.dll.config
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ProductsCategories.Service.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ProductsCategories.Service.pdb
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Antlr3.Runtime.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Microsoft.OData.Core.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Microsoft.OData.Edm.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Microsoft.Spatial.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\MongoDB.Bson.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\MongoDB.Driver.Core.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\MongoDB.Driver.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Newtonsoft.Json.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Norm.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ProductsCategories.Models.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ProductsCategories.Repository.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Net.Http.Formatting.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Cors.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Helpers.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Http.Cors.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Http.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Http.WebHost.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Mvc.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.OData.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Optimization.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Razor.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.WebPages.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.WebPages.Razor.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\WebGrease.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ProductsCategories.Models.pdb
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ProductsCategories.Repository.pdb
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Microsoft.OData.Core.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Microsoft.OData.Edm.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Microsoft.Spatial.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\MongoDB.Bson.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\MongoDB.Driver.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Norm.pdb
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Norm.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Http.Cors.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.OData.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Newtonsoft.Json.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Net.Http.Formatting.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Helpers.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Http.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Http.WebHost.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Mvc.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Optimization.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.Razor.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.WebPages.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\System.Web.WebPages.Razor.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\Antlr3.Runtime.pdb
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\de\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\es\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\fr\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\it\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ja\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ko\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ru\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\zh-Hans\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\zh-Hant\Microsoft.OData.Core.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\de\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\es\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\fr\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\it\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ja\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ko\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ru\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\zh-Hans\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\zh-Hant\Microsoft.OData.Edm.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\de\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\es\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\fr\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\it\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ja\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ko\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\ru\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\zh-Hans\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\bin\zh-Hant\Microsoft.Spatial.resources.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\obj\Debug\ProductsCategories.Service.csprojResolveAssemblyReference.cache
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\obj\Debug\ProductsCategories.Service.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Service\obj\Debug\ProductsCategories.Service.pdb

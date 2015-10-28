@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Products-Categories</title>
+ 
+    <link href="css/bootstrap.css" rel="stylesheet" />
+    <link href="css/jquery.bootgrid.css" rel="stylesheet" />
+    
+    <script src="js/modernizr-2.8.1.js"></script>
+    <script src="js/jquery-1.11.1.min.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/jquery.bootgrid.js"></script>
+    <script src="js/jquery.bootgrid.fa.js"></script>
+
+    <!-- Custom javascript files -->    
+    <script src="js/products.js" ></script>
+    <script src="js/categories.js" ></script>
+
+
+    <style>
+        @-webkit-viewport { width: device-width; }
+        @-moz-viewport { width: device-width; }
+        @-ms-viewport { width: device-width; }
+        @-o-viewport { width: device-width; }
+        @viewport { width: device-width; }
+
+        body { padding-top: 70px; }
+        
+        .column .text { color: #f00 !important; }
+        .cell { font-weight: bold; }
+    </style>
+    
+    
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+ 
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+    <div class="container">
+        <div class="starter-template">
+            <div class="table-responsive">
+                <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+                     <div class="container">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                <span class="sr-only">Toggle navigation</span> 
+                                <span class="icon-bar"></span> <span class="icon-bar"></span> 
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a id="mainBtn" class="navbar-brand" href="#">Products-Categories App</a>
+                        </div>
+                        <div class="collapse navbar-collapse">
+                        <ul class="nav navbar-nav">
+                            <li>
+                                <a id="categories" href="#">Categories</a>
+                            </li>
+                            <li>
+                                <a id ="products" href="#">Product</a>
+                            </li>
+                        </ul>
+                    </div>            
+                </div>
+            </div>
+            <div class="alert alert-success" id="successmsg">Success!</div>
+            <div class="alert alert-danger" id="alertmsg">Ooooops please check your inputs...</div>
+        </div>
+    </div>
+        
+    <hr />
+
+    <div class="starter-template">
+        <div id="divInclude" >
+            <div id="divContent">
+                <p>Product-Category Sample Application
+            </div>
+        </div>
+    </div>        
+
+    <script type="text/javascript">
+
+        $(window).load(function() {
+            initDefaults();
+            $('#divContent').remove()
+            $("#divInclude").load("init.html"); 
+        });
+        $('#mainBtn').click(function(){
+            initDefaults();
+            $('#divContent').remove()
+            $("#divInclude").load("init.html");  
+        });
+
+        $("#categories").click(function(){
+
+            $('#divContent').remove()
+            $("#divInclude").load("categories.html"); 
+            
+            getAllCategories();
+
+            $("#ctgryDetails").bootgrid({});
+            
+            $('#addButton').click(createCategory);
+
+            initDefaults();
+        });
+
+
+        $("#products").click(function(){
+
+            $('#divContent').remove()
+            $("#divInclude").load("products.html"); 
+            
+            getAllProducts();
+
+            $("#productDetails").bootgrid({});
+            
+            loadCategories();
+
+            $('#btnAddProduct').click(createProduct);
+
+            initDefaults();
+        });
+        
+        
+        $(document).on('click', '#dropdown-menuAdd li a', function() {
+            $('#addProdCtgry').text($(this).text());
+            $('#addProdCtgry').attr("val", $(this).attr("val"));
+        });
+
+         $(document).on('click', '#dropdown-menuUpdt li a', function() {
+            $('#updtProdCtgry').text($(this).text());
+            $('#updtProdCtgry').attr("val", $(this).attr("val"));
+        });
+
+    </script>
+
+
+
+</body>
+</html>   

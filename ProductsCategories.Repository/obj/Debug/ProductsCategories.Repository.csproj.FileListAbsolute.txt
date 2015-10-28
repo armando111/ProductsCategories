@@ -1,0 +1,40 @@
+C:\Users\user1003\Documents\GitHubVisualStudio\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\ProductsCategories.Repository.dll
+C:\Users\user1003\Documents\GitHubVisualStudio\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\ProductsCategories.Repository.pdb
+C:\Users\user1003\Documents\GitHubVisualStudio\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\Norm.dll
+C:\Users\user1003\Documents\GitHubVisualStudio\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\Norm.pdb
+C:\Users\user1003\Documents\GitHubVisualStudio\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\Norm.xml
+C:\Users\user1003\Documents\GitHubVisualStudio\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\obj\Debug\ProductsCategories.Repository.csprojResolveAssemblyReference.cache
+C:\Users\user1003\Documents\GitHubVisualStudio\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\obj\Debug\ProductsCategories.Repository.dll
+C:\Users\user1003\Documents\GitHubVisualStudio\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\obj\Debug\ProductsCategories.Repository.pdb
+C:\Users\user1003\Documents\GitHubVisualStudio\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\StructureMap.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\ProductsCategories.Repository.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\ProductsCategories.Repository.pdb
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\Norm.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\Norm.pdb
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\Norm.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\obj\Debug\ProductsCategories.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\obj\Debug\ProductsCategories.Repository.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\obj\Debug\ProductsCategories.Repository.pdb
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\MongoDB.Bson.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\MongoDB.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\MongoDB.pdb
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\MongoDB.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\MongoDB.Bson.xml
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\MongoDB.Driver.dll
+C:\Users\Pravetz 64\Documents\Visual Studio 2015\Projects\WebAPI2\WebAPI2Test\ProductsCategories\ProductsCategories.Repository\bin\Debug\MongoDB.Driver.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\bin\Debug\ProductsCategories.Repository.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\bin\Debug\ProductsCategories.Repository.pdb
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\bin\Debug\MongoDB.Bson.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\bin\Debug\MongoDB.Driver.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\bin\Debug\Norm.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\bin\Debug\MongoDB.pdb
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\bin\Debug\MongoDB.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\bin\Debug\MongoDB.Bson.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\bin\Debug\MongoDB.Driver.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\bin\Debug\Norm.pdb
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\bin\Debug\Norm.xml
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\obj\Debug\ProductsCategories.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\obj\Debug\ProductsCategories.Repository.dll
+C:\Users\Pravetz 64\Desktop\ProductsCategoriesPure2\ProductsCategories.Repository\obj\Debug\ProductsCategories.Repository.pdb
